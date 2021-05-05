@@ -1,6 +1,8 @@
-## Leader List
+## 领导名单
 
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
+
+经常以谦逊，进取，全面的观点撰写/讲话/tweet有关技术领导力和工作文化的领导者和思想者。 Twitter feed的姓名链接。
 
 - [Adam Tornhill](https://twitter.com/AdamTornhill) — Programmer, psychologist, Lisp hacker, author and speaker. Founder of Empear and https://codescene.io/.
 - [Adewale Oshineye](https://twitter.com/ade_oshineye) — Developer Advocate at Google. Co-author of Apprenticeship Patterns. 
