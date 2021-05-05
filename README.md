@@ -1,52 +1,53 @@
-# Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome领导力和管理 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## What This Is, and Where It Comes From
-Since 2013-ish, [Joe Goldberg](https://twitter.com/tenaciousjoe), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
+## 这是什么，它从哪里来
+自2013年起，乔·戈德堡（[Joe Goldberg](https://twitter.com/tenaciousjoe)）创造了启发该列表的原始文档，他阅读了大量有关“领导力”和“管理”的书籍和文章，并在整个过程中做笔记。他与正在转为管理职位的朋友分享了该文档，并最终决定将其开源。[在这里您可以找到Joe仍然公开的文档](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut)，其中提供了您在此处列出的文章的摘要，以及许多补充说明。
 
-In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](CONTRIBUTING.md) from people around the world.
+在2017年夏季，[Lauri Apple](https://twitter.com/lauri_apple)通过[Software Lead Weekly](http://softwareleadweekly.com/)发现了Joe的文档，并询问Joe将内容发布到GitHub上的情况。他表示同意。 Lauri更改了格式（非常简短的内容），将文档转换为 [Awesome List](https://github.com/sindresorhus/awesome)，此后一直在继续添加新条目。劳里（Lauri）在[Zalando](https://jobs.zalando.com/tech/)的前同事组成的团队帮助完成了最初的上传工作。这些天来，该列表收到了来自世界各地的人们的[贡献](CONTRIBUTING.md)。
 
-- "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
-- "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
-- "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
+“很棒的资源集合！” -安吉·琼斯（Angie Jones），推特（Twitter）
+“再次感谢您整合了巨量的资源！” — MongoDB和贡献者戴夫·戈登（Dave Golden）
+“在过去的几个月中，我已经反复学习并使用了这种方法，并将许多其他方法推荐给该材料。谢谢您，它以比您想象的更多的方式产生了真正的改变！
 
-### Quotes That Capture the General Spirit of this List's Contents
-- "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton
-- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan
-- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317) 
+### 此清单内容引述的的一般精神的引语
+“如果说我比别人看的更远的话，那是因为我站在巨人的肩膀上。” —艾萨克·牛顿爵士
+“如果我还没有看到的话，那是因为巨人站在我的肩膀上。” —很多人，包括利·卡普兰（Leigh Caplan）
+“人们需要停止使用'天生的领袖'一词。没有人是天生的领导者。” —凯特·赫德斯顿（Kate Heddleston）
 
-## Contents
-- [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
-- [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
-- [Building Teams](Building-Teams.md)
-- [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
-- [The CTO Role](The-CTO-role.md)
-- [Culture](Culture.md)
-- [Decision-Making and Prioritization](Decision-Making-and-Prioritization.md)
-- [Delegation](Delegation.md)
-- [Diversity and Inclusion](Diversity-and-Inclusion.md)
-- [Empathy and Listening](Empathy-and-Listening.md)
-- [Firing](Firing.md)
-- [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
-- [Hiring and Interviewing Candidates](Hiring-and-Interviewing.md)
-- [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md)
-- [Influencing Others](Influencing-Others.md)
-- [Leader List](Leader-List.md)
-- [Leadership Forums](Leadership-Forums.md)
-- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Leading Leaders](Leading-Leaders.md)
-- [Managing Remotely](Managing-Remotely.md)
-- [Media: Blogs, Newsletters, Podcasts](Media-Blogs-Newsletters-Podcasts.md)
-- [Meetings](Meetings.md)
-- [Motivation and “Retention”](/Motivation-Retention.md)
-- [Onboarding](Onboarding.md)
-- [One-on-Ones](One-on-Ones.md)
-- [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
-- [Planning, Roadmaps and Processes](Planning-roadmaps.md)
-- [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
-- [Productivity and Time Management](Productivity-and-Time-Management.md)
-- [Tools to Define Your Leadership Style](Tools-to-Define-Your-Leadership-Style.md)
-- [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-- [The VP Engineering Role](The-VP-Engineering-Role.md)
+## 目录
+
+- [能力、品质和价值](Abilities-Qualities-Values.md)
+- [构建产品、初创公司和OKR](Building-Products-and-Startups-OKRs.md)
+- [建立团队](Building-Teams.md)
+- [预防冲突和解决冲突](Conflict-Prevention-Resolution.md)
+- [CTO 角色](The-CTO-role.md)
+- [文化](Culture.md)
+- [决策和优先级](Decision-Making-and-Prioritization.md)
+- [委派](Delegation.md)
+- [多元化和包容性](Diversity-and-Inclusion.md)
+- [共情和倾听](Empathy-and-Listening.md)
+- [解雇](Firing.md)
+- [提出反馈、表扬和建议](Giving-Feedback-Praise-and-Advice.md)
+- [招聘和面试候选人](Hiring-and-Interviewing.md)
+- [对于开发人员：软件工艺、团队合作、技术债务](For-Developers-Teamwork-TechDebt.md)
+- [影响他人](Influencing-Others.md)
+- [领导名单](Leader-List.md)
+- [领导力论坛](Leadership-Forums.md)
+- [领导哲学和风格](Leadership-Philosophies-and-Styles.md)
+- [领导领导者](Leading-Leaders.md)
+- [远程管理](Managing-Remotely.md)
+- [媒体：博客、新闻通讯、播客](Media-Blogs-Newsletters-Podcasts.md)
+- [会议](Meetings.md)
+- [动机和“保留”](/Motivation-Retention.md)
+- [入职](Onboarding.md)
+- [一对一](One-on-Ones.md)
+- [人事操作，绩效考核和目标设定](People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [规划、路线图和流程](Planning-roadmaps.md)
+- [验收和复盘](Postmortems-Retrospectives.md)
+- [生产力和时间管理](Productivity-and-Time-Management.md)
+- [定义领导风格的工具](Tools-to-Define-Your-Leadership-Style.md)
+- [过渡到管理](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [技术VP角色](The-VP-Engineering-Role.md)
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
@@ -62,7 +63,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - Managers transitioning to meta-management (managing managers)
 
 ### How can I submit a link or ask a question?
-So glad you asked! Share and promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by reviewing the [contributor guidelines](CONTRIBUTING.md), then making a pull request (one per item/entry). For questions, go ahead and post an issue in the Issues Tracker. 
+So glad you asked! Share and promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by reviewing the [contributor guidelines](CONTRIBUTING.md), then making a pull request (one per item/entry). For questions, go ahead and post an issue in the Issues Tracker.
 
 ### How can I get more info on [missing topic]?
 Please make a request via the Issues Tracker if there’s a topic you'd like this list to include.
